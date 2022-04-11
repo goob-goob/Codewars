@@ -8,4 +8,4 @@ function nameShuffler(str){
     let first = split[0], last = split[1]
     
     return `${last} ${first}`
-  }
+}
