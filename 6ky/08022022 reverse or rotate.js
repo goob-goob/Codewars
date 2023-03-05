@@ -20,7 +20,6 @@ function revrot(str, sz) {
             } else {
                 result += rotate(chunk)
             }
-
         }
     }
     return result
